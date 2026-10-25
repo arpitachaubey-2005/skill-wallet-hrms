@@ -1,0 +1,6 @@
+{
+  "name": "Skill Wallet HRMS",
+  "description": "Skill Wallet — Modern MERN Stack Human Resource Management System with Role-Based Access Control for HR, Managers, and Employees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
